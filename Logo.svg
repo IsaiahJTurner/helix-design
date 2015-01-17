@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="266px" height="75px" viewBox="0 0 266 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Portrait" sketch:type="MSArtboardGroup" transform="translate(-190.000000, -355.000000)">
+            <g id="Logo" sketch:type="MSLayerGroup" transform="translate(183.000000, 332.000000)">
+                <text id="HELI" sketch:type="MSTextLayer" font-family=".Helvetica Neue DeskInterface" font-size="100" font-weight="normal" fill="#5283FF">
+                    <tspan x="0" y="97">HELI</tspan>
+                </text>
+                <g id="X" transform="translate(216.000000, 28.700012)" stroke="#5283FF" stroke-linecap="square" sketch:type="MSShapeGroup">
+                    <path d="M51.6262538,0.649414062 C51.6262538,9.61022742 49.0704242,14.9288185 34.7442399,26.8395127 C20.4180556,38.7502069 22.2258077,37.3250213 18.1042479,40.4851074 C13.9781388,43.6486816 5.89748274,47.8753921 5.89748274,63.4536247" id="Line" stroke-width="9.7"></path>
+                    <path d="M5.87943591,0.473301774 C5.87943591,9.43411514 10.9261537,16.4772308 22.0729608,26.1768902 C33.2197679,35.8765497 32.8637213,35.462098 38.8138097,40.3998837 C45.0764727,47.1668977 52.1529224,48.0921993 52.152923,63.5568932" id="Line" stroke-width="9.5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
